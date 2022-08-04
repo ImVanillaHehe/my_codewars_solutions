@@ -11,5 +11,3 @@ def likes(names):
     elif len(names) >=4:
         return f'{names[0]}, {names[1]} and {len(more_than_4_names)} others like this'
 
-
-
